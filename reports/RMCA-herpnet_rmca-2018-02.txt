@@ -1,0 +1,48 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 534
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 4
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:rmca" ; Times: 2
+	Query: "scientificname:&#34;laurentophryne parkeri&#34;" ; Times: 1
+	Query: "B-1357" ; Times: 1
+	Query: "gbifdatasetid:85e8c69c-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "institutioncode:rmca rwanda" ; Times: 2
+	Query: "genus:Amietia specificepithet:fuscigula" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "genus:Boophis specificepithet:tephraeomystax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1892 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
