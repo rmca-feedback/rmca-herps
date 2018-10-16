@@ -1,0 +1,103 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 237
+Number of records retrieved in searches: 4427
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 220
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 11
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 17
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-02 ; Times: 20
+	Date: 2018-03-03 ; Times: 4
+	Date: 2018-03-05 ; Times: 28
+	Date: 2018-03-06 ; Times: 15
+	Date: 2018-03-29 ; Times: 6
+	Date: 2018-03-26 ; Times: 48
+	Date: 2018-03-27 ; Times: 29
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-23 ; Times: 15
+	Date: 2018-03-20 ; Times: 19
+	Date: 2018-03-21 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phrynobatrachus specificepithet:krefftii" ; Times: 5
+	Query: "genus:Epidalea specificepithet:calamita" ; Times: 6
+	Query: "genus:Astylosternus specificepithet:diadematus" ; Times: 5
+	Query: "genus:Mertensophryne specificepithet:taitana" ; Times: 6
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 5
+	Query: "genus:Ichthyosaura specificepithet:alpestris" ; Times: 2
+	Query: "genus:Schismaderma specificepithet:carens" ; Times: 5
+	Query: "genus:Poyntonophrynus specificepithet:parkeri" ; Times: 10
+	Query: "genus:Hildebrandtia specificepithet:ornata" ; Times: 5
+	Query: "genus:Tomopterna specificepithet:marmorata" ; Times: 5
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 5
+	Query: "genus:Trichobatrachus specificepithet:robustus" ; Times: 5
+	Query: "genus:Sclerophrys specificepithet:brauni" ; Times: 1
+	Query: "genus:Nectophryne specificepithet:afra" ; Times: 5
+	Query: "genus:Breviceps specificepithet:poweri" ; Times: 5
+	Query: "genus:Cacosternum specificepithet:namaquense" ; Times: 5
+	Query: "genus:Hylarana specificepithet:galamensis" ; Times: 6
+	Query: "genus:Chrysobatrachus specificepithet:cupreonitens" ; Times: 5
+	Query: "genus:Capensibufo specificepithet:rosei" ; Times: 11
+	Query: "genus:Phrynomantis" ; Times: 3
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 5
+	Query: "genus:Phlyctimantis specificepithet:leonardi" ; Times: 6
+	Query: "genus:Lissotriton specificepithet:vulgaris" ; Times: 2
+	Query: "genus:Hoplobatrachus specificepithet:occipitalis" ; Times: 2
+	Query: "genus:Boulengerula specificepithet:taitana" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:notatus" ; Times: 2
+	Query: "genus:Probreviceps specificepithet:macrodactylus" ; Times: 5
+	Query: "genus:Tomopterna specificepithet:delalandii" ; Times: 5
+	Query: "genus:Callixalus specificepithet:pictus" ; Times: 5
+	Query: "genus:Cardioglossa specificepithet:cyaneospila" ; Times: 5
+	Query: "genus:Leptopelis specificepithet:brevirostris" ; Times: 6
+	Query: "institutioncode:RMCA" ; Times: 7
+	Query: "genus:Acanthixalus specificepithet:spinosus" ; Times: 5
+	Query: "genus:Kassinula specificepithet:wittei" ; Times: 6
+	Query: "genus:Herpele specificepithet:squalostoma" ; Times: 5
+	Query: "genus:Afrixalus specificepithet:orophilus" ; Times: 5
+	Query: "genus:Sclerophrys specificepithet:regularis" ; Times: 1
+	Query: "genus:Laurentophryne specificepithet:parkeri" ; Times: 5
+	Query: "genus:Afrixalus specificepithet:fornasini" ; Times: 2
+	Query: "genus:Nectophrynoides specificepithet:viviparus" ; Times: 5
+	Query: "genus:Cryptothylax specificepithet:greshoffii" ; Times: 6
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 5
+	Query: "genus:Kassina specificepithet:senegalensis" ; Times: 2
+	Query: "genus:Cacosternum specificepithet:boettgeri" ; Times: 5
+	Query: "genus:Discoglossus specificepithet:pictus" ; Times: 5
+	Query: "gbifdatasetid:85e8c69c-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "catalognumber:117945" ; Times: 3
+	Query: "Pelophylax perezi institutioncode:RMCA" ; Times: 1
+	Query: "genus:Ptychadena specificepithet:oxyrhynchus" ; Times: 6
+	Query: "genus:Natalobatrachus specificepithet:bonebergi" ; Times: 5
+	Query: "institutioncode:RMCA hassex:1" ; Times: 1
+	Query: "genus:Nectophryne specificepithet:batesii" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1284 download events in this period)
+Total number of records downloaded: 31
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "chiromantis rufescens" ; Times: 1
+
+
+End of report.
