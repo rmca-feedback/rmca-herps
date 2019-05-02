@@ -1,0 +1,62 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 1321
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 6
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 2
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 4
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Sclerophrys gracilipes" ; Times: 5
+	Query: "institutioncode:RMCA" ; Times: 10
+	Query: "Sclerophrys regularis" ; Times: 1
+	Query: "genus:Salamandrina" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "tanzania longido" ; Times: 1
+	Query: "RMCA" ; Times: 1
+	Query: "longido tanzania" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "genus:Sclerophrys specificepithet:regularis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1281 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ansorge" ; Times: 1
+
+
+End of report.
