@@ -1,0 +1,138 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 3727
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 2
+	Country: United States ; Times: 109
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-22 ; Times: 2
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-25 ; Times: 2
+	Date: 2019-06-30 ; Times: 4
+	Date: 2019-06-05 ; Times: 4
+	Date: 2019-06-11 ; Times: 87
+	Date: 2019-06-10 ; Times: 14
+	Date: 2019-06-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Xenopus specificepithet:vestitus" ; Times: 2
+	Query: "genus:Xenopus specificepithet:muelleri" ; Times: 2
+	Query: "genus:Hymenochirus specificepithet:boettgeri" ; Times: 1
+	Query: "genus:Ichthyosaura specificepithet:alpestris" ; Times: 1
+	Query: "genus:Mertensophryne specificepithet:taitana" ; Times: 1
+	Query: "genus:Hyperolius specificepithet:bolifambae" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:schubotzi" ; Times: 1
+	Query: "genus:Hyperolius specificepithet:tuberculatus" ; Times: 1
+	Query: "genus:Nectophryne specificepithet:afra" ; Times: 1
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 2
+	Query: "genus:Hylarana specificepithet:lepus" ; Times: 1
+	Query: "genus:Lissotriton specificepithet:vulgaris" ; Times: 1
+	Query: "genus:Hoplobatrachus specificepithet:occipitalis" ; Times: 1
+	Query: "genus:Kassinula specificepithet:wittei" ; Times: 1
+	Query: "genus:Glandirana specificepithet:rugosa" ; Times: 1
+	Query: "genus:Callixalus specificepithet:pictus" ; Times: 1
+	Query: "genus:Hildebrandtia specificepithet:ornata" ; Times: 1
+	Query: "genus:Xenopus specificepithet:petersii" ; Times: 2
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 2
+	Query: "genus:Herpele specificepithet:squalostoma" ; Times: 1
+	Query: "genus:Grandisonia specificepithet:alternans" ; Times: 1
+	Query: "genus:Cryptothylax specificepithet:greshoffii" ; Times: 1
+	Query: "genus:Discoglossus specificepithet:pictus" ; Times: 1
+	Query: "genus:Chrysobatrachus specificepithet:cupreonitens" ; Times: 1
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 1
+	Query: "genus:Ptychadena specificepithet:subpunctata" ; Times: 1
+	Query: "genus:Epidalea specificepithet:calamita" ; Times: 1
+	Query: "institutioncode:RMCA" ; Times: 3
+	Query: "genus:Hyperolius specificepithet:quinquevittatus" ; Times: 1
+	Query: "genus:Phlyctimantis specificepithet:verrucosus" ; Times: 2
+	Query: "41484" ; Times: 2
+	Query: "trichobatrachus" ; Times: 3
+	Query: "genus:Tomopterna specificepithet:marmorata" ; Times: 1
+	Query: "genus:Salamandrina specificepithet:terdigitata" ; Times: 1
+	Query: "genus:Sclerophrys" ; Times: 1
+	Query: "genus:Geotrypetes specificepithet:seraphini" ; Times: 1
+	Query: "genus:Cacosternum specificepithet:namaquense" ; Times: 1
+	Query: "genus:Boulengerula specificepithet:boulengeri" ; Times: 1
+	Query: "genus:Xenopus specificepithet:fraseri" ; Times: 2
+	Query: "genus:Pleurodema specificepithet:borellii" ; Times: 1
+	Query: "genus:Probreviceps specificepithet:macrodactylus" ; Times: 2
+	Query: "genus:Hymenochirus specificepithet:boulengeri" ; Times: 1
+	Query: "genus:Tomopterna specificepithet:delalandii" ; Times: 1
+	Query: "genus:Phrynobatrachus specificepithet:africanus" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:bocagii" ; Times: 1
+	Query: "genus:Nectophryne specificepithet:batesii" ; Times: 1
+	Query: "genus:Poyntonophrynus specificepithet:parkeri" ; Times: 2
+	Query: "genus:Ptychadena specificepithet:oxyrhynchus" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:ocellatus" ; Times: 1
+	Query: "genus:Hylarana specificepithet:albolabris" ; Times: 1
+	Query: "genus:Astylosternus" ; Times: 1
+	Query: "genus:Phlyctimantis specificepithet:leonardi" ; Times: 2
+	Query: "105147" ; Times: 1
+	Query: "genus:Breviceps specificepithet:poweri" ; Times: 1
+	Query: "genus:Cacosternum specificepithet:boettgeri" ; Times: 1
+	Query: "genus:Capensibufo specificepithet:rosei" ; Times: 1
+	Query: "genus:Hyperolius specificepithet:nasutus" ; Times: 1
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:notatus" ; Times: 1
+	Query: "genus:Xenopus specificepithet:wittei" ; Times: 2
+	Query: "genus:Cardioglossa specificepithet:cyaneospila" ; Times: 2
+	Query: "genus:Leptopelis specificepithet:brevirostris" ; Times: 1
+	Query: "112736" ; Times: 1
+	Query: "genus:Acanthixalus specificepithet:spinosus" ; Times: 1
+	Query: "genus:Hyperolius specificepithet:parkeri" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:orophilus" ; Times: 2
+	Query: "genus:Nectophrynoides specificepithet:viviparus" ; Times: 1
+	Query: "genus:Kassina specificepithet:senegalensis" ; Times: 1
+	Query: "genus:Scolecomorphus specificepithet:kirkii" ; Times: 1
+	Query: "84370" ; Times: 1
+	Query: "genus:Pelophylax specificepithet:ridibundus" ; Times: 1
+	Query: "genus:Hymenochirus specificepithet:curtipes" ; Times: 1
+	Query: "genus:Phrynobatrachus specificepithet:krefftii" ; Times: 2
+	Query: "genus:Astylosternus specificepithet:diadematus" ; Times: 1
+	Query: "genus:Schismaderma specificepithet:carens" ; Times: 2
+	Query: "genus:Afrixalus specificepithet:paradorsalis" ; Times: 2
+	Query: "genus:Trichobatrachus specificepithet:robustus" ; Times: 2
+	Query: "genus:Hylarana specificepithet:galamensis" ; Times: 1
+	Query: "39671" ; Times: 1
+	Query: "genus:Phrynomantis" ; Times: 1
+	Query: "genus:Xenopus specificepithet:amieti" ; Times: 2
+	Query: "genus:Boophis specificepithet:tephraeomystax" ; Times: 2
+	Query: "genus:Hypogeophis specificepithet:rostratus" ; Times: 1
+	Query: "genus:Hyperolius specificepithet:pusillus" ; Times: 1
+	Query: "serpents" ; Times: 1
+	Query: "genus:Laurentophryne specificepithet:parkeri" ; Times: 1
+	Query: "genus:Hyperolius specificepithet:cinnamomeoventris" ; Times: 1
+	Query: "sclerophrys superciliaris" ; Times: 4
+	Query: "genus:Natalobatrachus specificepithet:bonebergi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1182 download events in this period)
+Total number of records downloaded: 1087
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Hoplobatrachus" ; Times: 1
+	Query: "Tomopterna" ; Times: 1
+	Query: "genus:Pleurodema" ; Times: 1
+	Query: "genus:Xenopus" ; Times: 1
+
+
+End of report.
