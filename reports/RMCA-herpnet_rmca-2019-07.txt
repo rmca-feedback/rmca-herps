@@ -1,0 +1,75 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 1846
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 22
+	Country: United States ; Times: 25
+	Country: Poland ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-08 ; Times: 14
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-03 ; Times: 20
+	Date: 2019-07-11 ; Times: 4
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-15 ; Times: 5
+	Date: 2019-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Xenopus specificepithet:vestitus" ; Times: 1
+	Query: "institutioncode:RMCA" ; Times: 4
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 1
+	Query: "genus:Xenopus specificepithet:muelleri" ; Times: 1
+	Query: "poyntonophrynus parkeri" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:paradorsalis" ; Times: 1
+	Query: "specificepithet:superciliaris family:Bufonidae" ; Times: 4
+	Query: "99109" ; Times: 1
+	Query: "genus:Phlyctimantis specificepithet:leonardi" ; Times: 1
+	Query: "maristes" ; Times: 1
+	Query: "Hulstaert" ; Times: 4
+	Query: "Gillet" ; Times: 2
+	Query: "genus:Xenopus specificepithet:fraseri" ; Times: 1
+	Query: "genus:Phrynomantis" ; Times: 1
+	Query: "genus:Xenopus specificepithet:amieti" ; Times: 1
+	Query: "genus:Xenopus specificepithet:petersii" ; Times: 1
+	Query: "genus:Xenopus specificepithet:wittei" ; Times: 1
+	Query: "genus:Boophis specificepithet:tephraeomystax" ; Times: 1
+	Query: "De Caters" ; Times: 3
+	Query: "Callewaert RMCA" ; Times: 4
+	Query: "genus:Phlyctimantis specificepithet:verrucosus" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:orophilus" ; Times: 1
+	Query: "Gillet Kisantu" ; Times: 1
+	Query: "Hutsebaut" ; Times: 2
+	Query: "genus:Poyntonophrynus specificepithet:parkeri" ; Times: 1
+	Query: "Deheyn" ; Times: 1
+	Query: "specificepithet:cinerea genus:hyla preparations:Skeleton" ; Times: 1
+	Query: "specificepithet:superciliaris family:Bufonidae AND (NOT Cameroon NOT Ghana)" ; Times: 4
+	Query: "specificepithet:superciliaris family:Bufonidae AND (NOT Cameroon)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 985 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Rwanda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyperolius lateralis" ; Times: 1
+
+
+End of report.
