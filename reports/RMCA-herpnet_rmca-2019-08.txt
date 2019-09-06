@@ -1,0 +1,71 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 1312
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 13
+	Country: Unknown ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 7
+	Country: Democratic Republic of the Congo ; Times: 2
+	Country: Germany ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-23 ; Times: 15
+	Date: 2019-08-16 ; Times: 4
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-26 ; Times: 5
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-30 ; Times: 3
+	Date: 2019-08-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sclerophrys specificepithet:funerea" ; Times: 2
+	Query: "institutioncode:RMCA" ; Times: 6
+	Query: "29919" ; Times: 1
+	Query: "Sclerophrys kisoloensis" ; Times: 1
+	Query: "Acanthixalus spinosus" ; Times: 2
+	Query: "genus:Sclerophrys specificepithet:camerunensis" ; Times: 1
+	Query: "Trichobatrachus robustus" ; Times: 1
+	Query: "115366" ; Times: 3
+	Query: "Hoplophryne" ; Times: 1
+	Query: "115365" ; Times: 1
+	Query: "Hyperolius hutsebauti" ; Times: 2
+	Query: "100361" ; Times: 1
+	Query: "Cardioglossa" ; Times: 1
+	Query: "Monard" ; Times: 1
+	Query: "Acanthixalus" ; Times: 1
+	Query: "institutioncode:RMCA genus:hemisus" ; Times: 3
+	Query: "Cryptothylax greshoffii" ; Times: 1
+	Query: "Chrysobatrachus" ; Times: 1
+	Query: "Cryptothylax minutus" ; Times: 1
+	Query: "Trichobatrachus" ; Times: 4
+	Query: "specificepithet:hylaios genus:Phrynobatrachus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1034 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+
+
+End of report.
