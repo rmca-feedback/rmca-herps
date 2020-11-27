@@ -1,0 +1,90 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 5947
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 60
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Czechia ; Times: 15
+	Country: France ; Times: 2
+	Country: United States ; Times: 5
+	Country: Belgium ; Times: 4
+	Country: Spain ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 65
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-31 ; Times: 3
+	Date: 2019-12-28 ; Times: 3
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-07 ; Times: 15
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-11 ; Times: 3
+	Date: 2019-12-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Nectophryne batesii" ; Times: 1
+	Query: "institutioncode:RMCA" ; Times: 20
+	Query: "specificepithet:carens genus:Schismaderma" ; Times: 2
+	Query: "specificepithet:camerunensis genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:xeros genus:Sclerophrys" ; Times: 2
+	Query: "genus:Amietia specificepithet:fuscigula" ; Times: 1
+	Query: "institutioncode:RMCA Phrynobatrachus" ; Times: 3
+	Query: "specificepithet:calamita genus:Epidalea" ; Times: 2
+	Query: "specificepithet:villiersi genus:Sclerophrys" ; Times: 2
+	Query: "institutioncode:RMCA 1665" ; Times: 1
+	Query: "specificepithet:viviparus genus:Nectophrynoides" ; Times: 2
+	Query: "specificepithet:latifrons genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:mauritanica genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:taitana genus:Mertensophryne" ; Times: 2
+	Query: "RMCA 1665" ; Times: 1
+	Query: "specificepithet:garmani genus:Sclerophrys" ; Times: 2
+	Query: "genus:Leptopelis specificepithet:palmatus" ; Times: 2
+	Query: "institutioncode:RMCA equatorial guinea" ; Times: 1
+	Query: "Cardioglossa nigromaculata" ; Times: 4
+	Query: "genus:Sclerophrys specificepithet:gutturalis" ; Times: 2
+	Query: "genus:Hyperolius specificepithet:xenorhinus" ; Times: 1
+	Query: "specificepithet:melanopleura genus:Mertensophryne" ; Times: 2
+	Query: "specificepithet:batesii genus:Nectophryne" ; Times: 2
+	Query: "specificepithet:parkeri genus:Laurentophryne" ; Times: 2
+	Query: "specificepithet:gutturalis genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:lemairii genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:brauni genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:kisoloensis genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:afra genus:Nectophryne" ; Times: 2
+	Query: "specificepithet:rosei genus:Capensibufo" ; Times: 2
+	Query: "Hyperolius kuligae" ; Times: 1
+	Query: "specificepithet:superciliaris genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:gracilipes genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:steindachneri genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:tuberosa genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:maculata genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:parkeri genus:Poyntonophrynus" ; Times: 2
+	Query: "specificepithet:fuliginata genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:djohongensis genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:regularis genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:pentoni genus:Sclerophrys" ; Times: 2
+	Query: "specificepithet:funerea genus:Sclerophrys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 596 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
