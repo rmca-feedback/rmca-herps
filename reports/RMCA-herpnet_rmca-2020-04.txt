@@ -1,0 +1,72 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 5703
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 66
+	Country: South Africa ; Times: 11
+	Country: United States ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-07 ; Times: 42
+	Date: 2020-04-03 ; Times: 10
+	Date: 2020-04-21 ; Times: 16
+	Date: 2020-04-08 ; Times: 6
+	Date: 2020-04-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "40612" ; Times: 1
+	Query: "Kapiri" ; Times: 1
+	Query: "Sclerophrys xeros" ; Times: 7
+	Query: "genus:Boophis specificepithet:tephraeomystax" ; Times: 1
+	Query: "Xenopus victorianus" ; Times: 6
+	Query: "Xenopus muelleri" ; Times: 6
+	Query: "B. marmoratus" ; Times: 5
+	Query: "institutioncode:RMCA" ; Times: 1
+	Query: "Xenopus poweri" ; Times: 6
+	Query: "Xenopus vestitus" ; Times: 6
+	Query: "Lissotriton vulgaris" ; Times: 5
+	Query: "Sclerophrys maculata" ; Times: 4
+	Query: "Afrixalus fornasini" ; Times: 6
+	Query: "Silurana tropicalis" ; Times: 4
+	Query: "Ptychadena grandisonae" ; Times: 7
+	Query: "Silurana epitropicalis" ; Times: 4
+	Query: "36220" ; Times: 1
+	Query: "genus:Sclerophrys specificepithet:gutturalis" ; Times: 1
+	Query: "Hyperolius machadoi" ; Times: 3
+	Query: "Lake Van Turkey" ; Times: 1
+	Query: "Xenopus petersii" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1171 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "herpele squalostoma" ; Times: 1
+
+
+End of report.
