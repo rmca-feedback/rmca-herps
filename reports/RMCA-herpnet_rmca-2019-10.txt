@@ -1,0 +1,223 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 1050
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 9
+	Country: Italy ; Times: 3
+	Country: Unknown ; Times: 19
+	Country: Philippines ; Times: 22
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Belgium ; Times: 2
+	Country: China ; Times: 26
+	Country: Argentina ; Times: 5
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-25 ; Times: 5
+	Date: 2019-10-24 ; Times: 4
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-16 ; Times: 5
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 4
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-21 ; Times: 11
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-19 ; Times: 20
+	Date: 2019-10-20 ; Times: 35
+	Date: 2019-10-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Nectophryne batesii" ; Times: 3
+	Query: "institutioncode:RMCA" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "Cacosternum leleupi" ; Times: 2
+	Query: "Phrynobatrachus ogoensis" ; Times: 1
+	Query: "Phrynobatrachus anotis" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 1
+	Query: "RMCA 8252" ; Times: 1
+	Query: "genus:Phrynobatrachus specificepithet:sulfureogularis" ; Times: 1
+	Query: "Hymenochirus curtipes" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "Geotrypetes pseudoangeli" ; Times: 1
+	Query: "Leptopelis lebeaui" ; Times: 1
+	Query: "71480" ; Times: 1
+	Query: "Xenopus amieti" ; Times: 1
+	Query: "Chrysobatrachus cupreonitens" ; Times: 1
+	Query: "Salamandrina" ; Times: 3
+	Query: "Afrixalus leucostictus" ; Times: 1
+	Query: "Ichthyosaura alpestris" ; Times: 1
+	Query: "Phrynobatrachus asper" ; Times: 1
+	Query: "Hyperolius polli" ; Times: 1
+	Query: "Laurentophryne parkeri" ; Times: 1
+	Query: "Hyperolius inornatus" ; Times: 1
+	Query: "Leptopelis parvus" ; Times: 1
+	Query: "Cardioglossa inornata" ; Times: 1
+	Query: "Astylosternus diadematus" ; Times: 1
+	Query: "Petropedetes johnstoni" ; Times: 1
+	Query: "Hyperolius obscurus" ; Times: 1
+	Query: "Afrixalus upembae" ; Times: 1
+	Query: "genus:Hyperolius specificepithet:robustus" ; Times: 4
+	Query: "Hymenochirus boulengeri" ; Times: 1
+	Query: "specificepithet:adspersus genus:Hyperolius" ; Times: 1
+	Query: "Petropedetes parkeri" ; Times: 1
+	Query: "Arthroleptis tuberosus" ; Times: 2
+	Query: "Cardioglossa nigromaculata" ; Times: 1
+	Query: "genus:Sclerophrys specificepithet:gutturalis" ; Times: 1
+	Query: "Ptychadena straeleni" ; Times: 1
+	Query: "Hyperolius ferrugineus" ; Times: 4
+	Query: "Hyperolius xenorhinus" ; Times: 1
+	Query: "genus:Amietia specificepithet:desaegeri" ; Times: 1
+	Query: "Sclerophrys villiersi" ; Times: 2
+	Query: "Hyperolius stenodactylus" ; Times: 1
+	Query: "Phrynobatrachus scapularis" ; Times: 1
+	Query: "Hyperolius leucotaenius" ; Times: 1
+	Query: "Arthroleptis spinalis" ; Times: 1
+	Query: "Ptychadena ingeri" ; Times: 1
+	Query: "Hyperolius brachiofasciatus" ; Times: 1
+	Query: "Phrynobatrachus parkeri" ; Times: 1
+	Query: "Leptopelis millsoni" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "Afrixalus equatorialis" ; Times: 1
+	Query: "Acanthixalus spinosus" ; Times: 1
+	Query: "Hyperolius constellatus" ; Times: 1
+	Query: "Hyperolius nimbae" ; Times: 1
+	Query: "Hyperolius sankuruensis" ; Times: 1
+	Query: "Conraua derooi" ; Times: 1
+	Query: "Cryptothylax minutus" ; Times: 1
+	Query: "Hyperolius chrysogaster" ; Times: 1
+	Query: "Glandirana rugosa" ; Times: 1
+	Query: "Hyperolius atrigularis" ; Times: 1
+	Query: "Arthroleptis phrynoides" ; Times: 1
+	Query: "Leptopelis fenestratus" ; Times: 1
+	Query: "Hyperolius pustulifer" ; Times: 1
+	Query: "Arthroleptis loveridgei" ; Times: 2
+	Query: "Kassina mertensi" ; Times: 1
+	Query: "alpestris Ichthyosaura" ; Times: 2
+	Query: "genus:Afrixalus specificepithet:equatorialis" ; Times: 1
+	Query: "Hyperolius polystictus" ; Times: 1
+	Query: "Conraua goliath" ; Times: 3
+	Query: "Sclerophrys djohongensis" ; Times: 1
+	Query: "Phrynobatrachus cryptotis" ; Times: 1
+	Query: "Hyperolius robustus" ; Times: 1
+	Query: "genus:Hypogeophis specificepithet:rostratus" ; Times: 1
+	Query: "Phrynobatrachus werneri" ; Times: 1
+	Query: "silurana epitropicalis" ; Times: 1
+	Query: "Hyperolius kibarae" ; Times: 1
+	Query: "arborea Hyla" ; Times: 2
+	Query: "Phrynobatrachus albomarginatus" ; Times: 1
+	Query: "Sclerophrys brauni" ; Times: 1
+	Query: "Phrynobatrachus dalcqi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 110 (out of 1308 download events in this period)
+Total number of records downloaded: 2318
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: India ; Times: 9
+	Country: Philippines ; Times: 23
+	Country: China ; Times: 61
+	Country: Unknown ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 20
+	Date: 2019-10-19 ; Times: 29
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-20 ; Times: 56
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynobatrachus alleni" ; Times: 1
+	Query: "Phrynobatrachus plicatus" ; Times: 1
+	Query: "Phrynobatrachus parkeri" ; Times: 2
+	Query: "Cacosternum leleupi" ; Times: 2
+	Query: "Nectophryne batesii" ; Times: 1
+	Query: "Petropedetes parkeri" ; Times: 2
+	Query: "Hyperolius bolifambae" ; Times: 2
+	Query: "Leptopelis fenestratus" ; Times: 1
+	Query: "Phrynobatrachus cryptotis" ; Times: 2
+	Query: "Phrynobatrachus giorgii" ; Times: 1
+	Query: "Arthroleptis spinalis" ; Times: 1
+	Query: "Phrynobatrachus liberiensis" ; Times: 2
+	Query: "Hyperolius picturatus" ; Times: 1
+	Query: "Leptopelis lebeaui" ; Times: 1
+	Query: "Xenopus amieti" ; Times: 2
+	Query: "Chrysobatrachus cupreonitens" ; Times: 1
+	Query: "Phrynobatrachus ogoensis" ; Times: 2
+	Query: "Afrixalus leucostictus" ; Times: 1
+	Query: "Phrynobatrachus asper" ; Times: 2
+	Query: "Hyperolius polli" ; Times: 2
+	Query: "Laurentophryne parkeri" ; Times: 1
+	Query: "Hyperolius inornatus" ; Times: 2
+	Query: "Leptopelis parvus" ; Times: 1
+	Query: "Hyperolius pustulifer" ; Times: 1
+	Query: "Astylosternus diadematus" ; Times: 1
+	Query: "Petropedetes johnstoni" ; Times: 2
+	Query: "Hyperolius obscurus" ; Times: 2
+	Query: "Ptychadena perreti" ; Times: 2
+	Query: "Afrixalus upembae" ; Times: 1
+	Query: "Hymenochirus boulengeri" ; Times: 2
+	Query: "Arthroleptis tuberosus" ; Times: 1
+	Query: "Cardioglossa nigromaculata" ; Times: 1
+	Query: "Hyperolius nimbae" ; Times: 1
+	Query: "Leptopelis modestus" ; Times: 1
+	Query: "Hyperolius atrigularis" ; Times: 2
+	Query: "Sclerophrys djohongensis" ; Times: 1
+	Query: "Hyperolius concolor" ; Times: 2
+	Query: "Hyperolius kibarae" ; Times: 2
+	Query: "Phrynobatrachus anotis" ; Times: 2
+	Query: "Geotrypetes pseudoangeli" ; Times: 2
+	Query: "Hyperolius stenodactylus" ; Times: 2
+	Query: "Ptychadena aequiplicata" ; Times: 2
+	Query: "Hyperolius leucotaenius" ; Times: 2
+	Query: "Phrynobatrachus scapularis" ; Times: 2
+	Query: "Ptychadena ingeri" ; Times: 2
+	Query: "silurana tropicalis" ; Times: 1
+	Query: "Hyperolius brachiofasciatus" ; Times: 2
+	Query: "Leptopelis millsoni" ; Times: 1
+	Query: "Kassina mertensi" ; Times: 1
+	Query: "Afrixalus equatorialis" ; Times: 1
+	Query: "genus:Pleurodema" ; Times: 2
+	Query: "Hyperolius constellatus" ; Times: 2
+	Query: "silurana epitropicalis" ; Times: 1
+	Query: "Hyperolius sankuruensis" ; Times: 1
+	Query: "Conraua derooi" ; Times: 1
+	Query: "Cryptothylax minutus" ; Times: 1
+	Query: "Hyperolius chrysogaster" ; Times: 2
+	Query: "Hyperolius kuligae" ; Times: 2
+	Query: "Ptychadena straeleni" ; Times: 2
+	Query: "Ptychadena longirostris" ; Times: 2
+	Query: "Arthroleptis phrynoides" ; Times: 1
+	Query: "Cardioglossa inornata" ; Times: 1
+	Query: "Arthroleptis loveridgei" ; Times: 1
+	Query: "Acanthixalus spinosus" ; Times: 1
+	Query: "Ptychadena superciliaris" ; Times: 2
+	Query: "Hyperolius polystictus" ; Times: 1
+	Query: "Hyperolius guttulatus" ; Times: 1
+	Query: "Hyperolius robustus" ; Times: 1
+	Query: "Hyperolius xenorhinus" ; Times: 1
+	Query: "Arthroleptis sylvaticus" ; Times: 1
+	Query: "Phrynobatrachus werneri" ; Times: 2
+	Query: "astylosternus" ; Times: 1
+	Query: "Sclerophrys villiersi" ; Times: 1
+	Query: "Hyperolius fusciventris" ; Times: 1
+	Query: "Hymenochirus curtipes" ; Times: 2
+
+
+End of report.
