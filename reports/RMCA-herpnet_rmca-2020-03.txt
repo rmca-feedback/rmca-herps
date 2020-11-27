@@ -1,0 +1,68 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 927
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 15
+	Country: Australia ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Belgium ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-28 ; Times: 8
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-17 ; Times: 5
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-12 ; Times: 3
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:RMCA" ; Times: 9
+	Query: "38874" ; Times: 1
+	Query: "B-10458" ; Times: 1
+	Query: "66066" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "genus:Mertensophryne specificepithet:melanopleura" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "79924" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "120275" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "70672" ; Times: 1
+	Query: "120271" ; Times: 1
+	Query: "115522" ; Times: 1
+	Query: "93597" ; Times: 1
+	Query: "120849" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "118930" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 853 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
