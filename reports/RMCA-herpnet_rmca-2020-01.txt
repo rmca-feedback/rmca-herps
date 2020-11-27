@@ -1,0 +1,183 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 6116
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 120
+	Country: United Kingdom ; Times: 6
+	Country: Switzerland ; Times: 1
+	Country: Rwanda ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 20
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 16
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 6
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-23 ; Times: 117
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:aequiplicata genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:taenioscelis genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:calcaratus genus:Phrynobatrachus" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Hoplobatrachus" ; Times: 1
+	Query: "specificepithet:subpunctata genus:Ptychadena" ; Times: 1
+	Query: "vulgaris Lissotriton" ; Times: 1
+	Query: "specificepithet:nasutus genus:Hyperolius" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "specificepithet:krefftii genus:Phrynobatrachus" ; Times: 1
+	Query: "specificepithet:laevis genus:Afrixalus" ; Times: 1
+	Query: "specificepithet:epitropicalis genus:Silurana" ; Times: 1
+	Query: "specificepithet:adspersus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:millsoni genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:leucomystax genus:Cardioglossa" ; Times: 1
+	Query: "specificepithet:palmatus genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:punctatus genus:Pelodytes" ; Times: 1
+	Query: "specificepithet:anchietae genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:modestus genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:wittei genus:Xenopus" ; Times: 1
+	Query: "specificepithet:cinereus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:paradorsalis genus:Afrixalus" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:afra genus:Nectophryne" ; Times: 1
+	Query: "specificepithet:longirostris genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:spinosus genus:Acanthixalus" ; Times: 1
+	Query: "specificepithet:rosei genus:Capensibufo" ; Times: 1
+	Query: "specificepithet:ornata genus:Hildebrandtia" ; Times: 1
+	Query: "specificepithet:bocagii genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:uluguruensis genus:Probreviceps" ; Times: 1
+	Query: "specificepithet:xenodactylus genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:variabilis genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:mossambicus genus:Breviceps" ; Times: 2
+	Query: "specificepithet:fuscigula genus:Amietia" ; Times: 1
+	Query: "institutioncode:RMCA" ; Times: 23
+	Query: "specificepithet:pusillus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:diadematus genus:Astylosternus" ; Times: 1
+	Query: "specificepithet:seychellensis genus:Tachycnemis" ; Times: 1
+	Query: "specificepithet:schubotzi genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:tephraeomystax genus:Boophis" ; Times: 1
+	Query: "specificepithet:pictus genus:Discoglossus" ; Times: 1
+	Query: "specificepithet:viviparus genus:Nectophrynoides" ; Times: 1
+	Query: "specificepithet:senegalensis genus:Kassina" ; Times: 1
+	Query: "specificepithet:rufescens genus:Chiromantis" ; Times: 1
+	Query: "specificepithet:pardalis genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:reichei genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:argus genus:Hyperolius" ; Times: 1
+	Query: "temporaria Rana" ; Times: 3
+	Query: "specificepithet:madagascariensis genus:Mantella" ; Times: 1
+	Query: "specificepithet:macrodactylus genus:Probreviceps" ; Times: 1
+	Query: "specificepithet:auritus genus:Phrynobatrachus" ; Times: 1
+	Query: "specificepithet:borellii genus:Pleurodema" ; Times: 1
+	Query: "specificepithet:arborea genus:Hyla" ; Times: 1
+	Query: "specificepithet:robustus genus:Trichobatrachus" ; Times: 1
+	Query: "specificepithet:concolor genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:frontalis genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:dendrobates genus:Phrynobatrachus" ; Times: 1
+	Query: "specificepithet:petersii genus:Xenopus" ; Times: 1
+	Query: "specificepithet:leonardi genus:Phlyctimantis" ; Times: 1
+	Query: "109716" ; Times: 1
+	Query: "family:ranidae catalognumber:35575" ; Times: 1
+	Query: "specificepithet:karissimbensis genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:mababiensis genus:Phrynobatrachus" ; Times: 1
+	Query: "specificepithet:maculata genus:Kassina" ; Times: 1
+	Query: "specificepithet:bibroni genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:acridoides genus:Phrynobatrachus" ; Times: 1
+	Query: "specificepithet:marmorata genus:Tomopterna" ; Times: 1
+	Query: "specificepithet:leucomelas genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:namaquense genus:Cacosternum" ; Times: 1
+	Query: "specificepithet:carens genus:Schismaderma" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "specificepithet:castaneus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:fraseri genus:Xenopus" ; Times: 1
+	Query: "specificepithet:delalandii genus:Tomopterna" ; Times: 1
+	Query: "specificepithet:gracilis genus:Cardioglossa" ; Times: 1
+	Query: "specificepithet:kreffti genus:Callulina" ; Times: 1
+	Query: "specificepithet:montanus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:kivuensis genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:verrucosus genus:Phlyctimantis" ; Times: 1
+	Query: "specificepithet:benguellensis genus:Hyperolius" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:adolfifriederici" ; Times: 2
+	Query: "specificepithet:batesi genus:Astylosternus" ; Times: 1
+	Query: "specificepithet:tuberculatus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:vestitus genus:Xenopus" ; Times: 1
+	Query: "specificepithet:boettgeri genus:Cacosternum" ; Times: 1
+	Query: "specificepithet:kivuensis genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:uluguruensis genus:Hoplophryne" ; Times: 1
+	Query: "specificepithet:nigricans genus:Mantella" ; Times: 1
+	Query: "specificepithet:angolensis genus:Amietia" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:boettgeri genus:Hymenochirus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:greshoffii genus:Cryptothylax" ; Times: 1
+	Query: "specificepithet:stenodactylus genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:tropicalis genus:Silurana" ; Times: 1
+	Query: "specificepithet:muelleri genus:Xenopus" ; Times: 1
+	Query: "specificepithet:picturatus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:goliath genus:Conraua" ; Times: 1
+	Query: "specificepithet:fornasini genus:Afrixalus" ; Times: 1
+	Query: "specificepithet:petersii genus:Chiromantis" ; Times: 1
+	Query: "specificepithet:calcaratus genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:ruwenzorica genus:Amietia" ; Times: 1
+	Query: "specificepithet:guttulatus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:phantasticus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:ocellatus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:oxyrhynchus genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:subsigillata genus:Aubria" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Strongylopus" ; Times: 1
+	Query: "specificepithet:crassipes genus:Conraua" ; Times: 1
+	Query: "specificepithet:parkeri genus:Petropedetes" ; Times: 1
+	Query: "specificepithet:bifasciatus genus:Phrynomantis" ; Times: 1
+	Query: "specificepithet:cinnamomeoventris genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:pumilio genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:batesii genus:Nectophryne" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:microps genus:Phrynomantis" ; Times: 1
+	Query: "specificepithet:porosissima genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:adolfifriederici genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:africanus genus:Phrynobatrachus" ; Times: 1
+	Query: "specificepithet:bonebergi genus:Natalobatrachus" ; Times: 1
+	Query: "specificepithet:edulis genus:Pyxicephalus" ; Times: 1
+	Query: "specificepithet:amieti genus:Xenopus" ; Times: 1
+	Query: "salamandra Salamandra" ; Times: 2
+	Query: "specificepithet:sylvaticus genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:fusciventris genus:Hyperolius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1584 download events in this period)
+Total number of records downloaded: 46
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Philippines ; Times: 1
+	Country: Rwanda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Arthroleptis specificepithet:adolfifriederici" ; Times: 1
+	Query: "genus:Phrynobatrachus auritus" ; Times: 1
+
+
+End of report.
