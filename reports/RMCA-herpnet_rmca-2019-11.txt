@@ -1,0 +1,62 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 516
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 9
+	Country: Belgium ; Times: 4
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-15 ; Times: 5
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:RMCA" ; Times: 5
+	Query: "20532" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "86616" ; Times: 1
+	Query: "genus:Pelodytes specificepithet:punctatus" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "55422" ; Times: 1
+	Query: "belgium 691" ; Times: 1
+	Query: "86614" ; Times: 1
+	Query: "61132" ; Times: 1
+	Query: "86613" ; Times: 1
+	Query: "rio muni class:amphibia" ; Times: 1
+	Query: "genus:Hyperolius specificepithet:montanus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1367 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Bosnia and Herzegovina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+
+
+End of report.
