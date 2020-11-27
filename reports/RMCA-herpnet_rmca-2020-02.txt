@@ -1,0 +1,70 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 2683
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United States ; Times: 1
+	Country: Rwanda ; Times: 2
+	Country: Belgium ; Times: 27
+	Country: Japan ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-12 ; Times: 22
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-09 ; Times: 6
+	Date: 2020-02-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "year &gt;= 1951 year &lt;= 1951 institutioncode:RMCA basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "recordedby:Laurent year &gt;= 1951 year &lt;= 1951 month &gt;= 5 month &lt;= 5 institutioncode:RMCA basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:RMCA" ; Times: 12
+	Query: "recordedby:Laurent year &gt;= 1951 year &lt;= 1951 month &gt;= 4 month &lt;= 4 institutioncode:RMCA basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chrysobatrachus" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:adolfifriederici" ; Times: 2
+	Query: "recordedby:Laurent year &gt;= 1951 year &lt;= 1951 month &gt;= 1 month &lt;= 1 institutioncode:RMCA basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordedby:Laurent year &gt;= 1950 year &lt;= 1951 institutioncode:RMCA basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "class:amphibia institutioncode:RMCA basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "recordedby:Laurent year &gt;= 1951 year &lt;= 1951 month &gt;= 1 institutioncode:RMCA basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordedby:Laurent year &gt;= 1951 year &lt;= 1951 month &gt;= 3 month &lt;= 3 institutioncode:RMCA basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordedby:Laurent year &gt;= 1950 year &lt;= 1951 month &gt;= 12 month &lt;= 12 institutioncode:RMCA basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordedby:Laurent year &gt;= 1951 year &lt;= 1951 institutioncode:RMCA basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "recordedby:Laurent year &gt;= 1951 year &lt;= 1951 month &gt;= 2 month &lt;= 2 institutioncode:RMCA basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Kassinula wittei" ; Times: 2
+	Query: "calamita Epidalea" ; Times: 1
+	Query: "recordedby:Laurent year &gt;= 1951 year &lt;= 1951 month &gt;= 6 month &lt;= 6 institutioncode:RMCA basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1023 download events in this period)
+Total number of records downloaded: 59
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "silurana tropicalis" ; Times: 1
+	Query: "Kassinula wittei" ; Times: 1
+
+
+End of report.
