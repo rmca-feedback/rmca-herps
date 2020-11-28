@@ -1,0 +1,70 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 422
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:RMCA" ; Times: 4
+	Query: "101430" ; Times: 1
+	Query: "hypogeophis" ; Times: 1
+	Query: "112728" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:edulis" ; Times: 1
+	Query: "genus:probreviceps" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "Mantella madagascariensis" ; Times: 2
+	Query: "catalognumber:114228 institutioncode:RMCA" ; Times: 1
+	Query: "101571" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "101569" ; Times: 1
+	Query: "101273" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 940 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
