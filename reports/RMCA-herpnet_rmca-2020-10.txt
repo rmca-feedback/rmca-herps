@@ -1,0 +1,64 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 5278
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: South Africa ; Times: 1
+	Country: DR Congo ; Times: 2
+	Country: United States ; Times: 4
+	Country: Burundi ; Times: 48
+	Country: Slovakia ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-24 ; Times: 2
+	Date: 2020-10-29 ; Times: 8
+	Date: 2020-10-28 ; Times: 48
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:RMCA" ; Times: 52
+	Query: "Amietia fuscigula" ; Times: 1
+	Query: "Bambous" ; Times: 2
+	Query: "institutioncode:RMCA 112077" ; Times: 2
+	Query: "institutioncode:RMCA 112078" ; Times: 3
+	Query: "institutioncode:RMCA 112079" ; Times: 1
+	Query: "Afrixalus equatorialis" ; Times: 1
+	Query: "41813" ; Times: 2
+	Query: "trichobatrachus" ; Times: 2
+	Query: "genus:Trichobatrachus specificepithet:robustus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1521 download events in this period)
+Total number of records downloaded: 412
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: DR Congo ; Times: 1
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hylarana" ; Times: 1
+	Query: "Bambous" ; Times: 1
+
+
+End of report.
