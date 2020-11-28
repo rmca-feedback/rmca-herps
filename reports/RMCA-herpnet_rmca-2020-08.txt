@@ -1,0 +1,49 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 383
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "B. marmoratus" ; Times: 1
+	Query: "Silurana tropicalis" ; Times: 1
+	Query: "Hyperolius argus" ; Times: 1
+	Query: "Leptopelis kivuensis" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "catalognumber:91481" ; Times: 1
+	Query: "genus:Salamandrina specificepithet:terdigitata" ; Times: 1
+	Query: "Silurana epitropicalis" ; Times: 1
+	Query: "genus:Sclerophrys specificepithet:gutturalis" ; Times: 1
+	Query: "Hyperolius cinnamomeoventris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 756 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
