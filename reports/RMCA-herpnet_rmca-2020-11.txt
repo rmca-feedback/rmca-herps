@@ -1,0 +1,65 @@
+Report for Institution Code RMCA, Resource herpnet_rmca
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 2855
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Burundi ; Times: 25
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 5
+	Country: Togo ; Times: 1
+	Country: Belgium ; Times: 6
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-21 ; Times: 2
+	Date: 2020-11-16 ; Times: 2
+	Date: 2020-11-09 ; Times: 2
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-02 ; Times: 27
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-23 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:RMCA" ; Times: 26
+	Query: "62435" ; Times: 2
+	Query: "Pleurodema borellii" ; Times: 1
+	Query: "Phrynomantis microps" ; Times: 2
+	Query: "Acanthixalus spinosus" ; Times: 2
+	Query: "genus:Breviceps specificepithet:gibbosus" ; Times: 2
+	Query: "Conraua derooi" ; Times: 1
+	Query: "institutioncode:RMCA ptychadena anchietae" ; Times: 1
+	Query: "genus:Hyperolius locality:Garamba" ; Times: 1
+	Query: "Sclerophrys gutturalis" ; Times: 2
+	Query: "50647" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 842 download events in this period)
+Total number of records downloaded: 123
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Spain ; Times: 2
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-13 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Pelobates fuscus" ; Times: 3
+	Query: "Rana temporaria" ; Times: 1
+	Query: "nectophryne" ; Times: 1
+	Query: "cope" ; Times: 1
+
+
+End of report.
